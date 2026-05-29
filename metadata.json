@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield Nigeria",
+  "description": "An interactive digital security companion helping Nigerians detect and safeguard themselves from financial scams, SMS fraud, phishing emails, and online investment traps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
